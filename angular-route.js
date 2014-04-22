@@ -924,4 +924,4 @@ function ngViewFillContentFactory($compile, $controller, $route) {
 }
 
 
-})(window, window.angular);
+})(window, require('angularjs'));
