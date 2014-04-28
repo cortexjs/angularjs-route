@@ -1,10 +1,12 @@
 {
   "name": "angularjs-route",
   "version": "1.2.17",
+  "description": "angularjs-route module",
   "repository": {
     "type": "git",
     "url": "https://github.com/cortexjs/angularjs-route.git"
   },
+  "keywords": ["angularjs", "angular", "route"],
   "cortex": {
     "main": "angular-route.js",
     "dependencies" : {
